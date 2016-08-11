@@ -3,6 +3,7 @@
 
 ## Questions
 
+### EASY QUESTIONS
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 
 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
@@ -37,6 +38,7 @@
 
 ## Answers
 
+### EASY QUESTIONS
 - [Same Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/SameTree.java)
 
 - [Delete Node in a Linked List](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/DeleteNode.java)
