@@ -67,4 +67,4 @@
 
 - [Majority Element](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/MajorityElement.java)
 
-- [Majority Element](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ContainsDuplicate.java)
+- [Contains Duplicate](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ContainsDuplicate.java)
