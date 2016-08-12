@@ -36,6 +36,10 @@
 
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -70,3 +74,7 @@
 - [Majority Element](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/MajorityElement.java)
 
 - [Contains Duplicate](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ContainsDuplicate.java)
+
+- [Intersection of Two Arrays II](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/IntersectionTwoArraysII.java)
+
+- [Reverse Linked List](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ReverseLinkedList.java)
