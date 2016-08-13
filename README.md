@@ -40,6 +40,12 @@
 
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+- [Ugly Number](https://leetcode.com/problems/ugly-number/)
+
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -78,3 +84,9 @@
 - [Intersection of Two Arrays II](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/IntersectionTwoArraysII.java)
 
 - [Reverse Linked List](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ReverseLinkedList.java)
+
+- [Ugly Number](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/UglyNumber.java)
+
+- [Remove Duplicates from Sorted List](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/RemoveDuplicatesSortList.java)
+
+- [Lowest Common Ancestor of a Binary Search Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/CommonAncestorBST.java)
