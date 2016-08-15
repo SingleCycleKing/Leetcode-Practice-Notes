@@ -54,6 +54,8 @@
 
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
+- [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -106,3 +108,5 @@
 - [Merge Two Sorted Lists](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/MergeSortedLists.java)
 
 - [Linked List Cycle](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/LinkedListCycle.java)
+
+- [Reverse Vowels of a String](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ReverseVowelsString.java)
