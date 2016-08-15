@@ -46,6 +46,14 @@
 
 - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -90,3 +98,11 @@
 - [Remove Duplicates from Sorted List](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/RemoveDuplicatesSortList.java)
 
 - [Lowest Common Ancestor of a Binary Search Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/CommonAncestorBST.java)
+
+- [Climbing Stairs](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ClimbStairs.java)
+
+- [Best Time to Buy and Sell Stock](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/MaxProfit.java)
+
+- [Merge Two Sorted Lists](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/MergeSortedLists.java)
+
+- [Linked List Cycle](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/LinkedListCycle.java)
