@@ -1,6 +1,11 @@
 # Leetcode Practice Notes
 #### Here are some answers of leetcode questions.
 
+## Reference
+- [Discuss](https://discuss.leetcode.com)
+- [Stackoverflow](http://stackoverflow.com)
+- Blog
+
 ## Questions
 
 #### EASY QUESTIONS
@@ -56,6 +61,12 @@
 
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+- [House Robber](https://leetcode.com/problems/house-robber/)
+
+- [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -110,3 +121,9 @@
 - [Linked List Cycle](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/LinkedListCycle.java)
 
 - [Reverse Vowels of a String](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ReverseVowelsString.java)
+
+- [Swap Nodes in Pairs](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/SwapNodesPairs.java)
+
+- [House Robber](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/HouseRobber.java)
+
+- [Binary Tree Level Order Traversal II](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/BinaryTreeLevelOrderTraversalII.java)
