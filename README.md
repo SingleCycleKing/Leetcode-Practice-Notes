@@ -67,6 +67,10 @@
 
 - [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+
+- [Remove Element](https://leetcode.com/problems/remove-element/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -127,3 +131,7 @@
 - [House Robber](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/HouseRobber.java)
 
 - [Binary Tree Level Order Traversal II](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/BinaryTreeLevelOrderTraversalII.java)
+
+- [Symmetric Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/SymmetricTree.java)
+
+- [Remove Element](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/RemoveElement.java)
