@@ -71,6 +71,12 @@
 
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 
+- [Plus One](https://leetcode.com/problems/plus-one/)
+
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -135,3 +141,9 @@
 - [Symmetric Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/SymmetricTree.java)
 
 - [Remove Element](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/RemoveElement.java)
+
+- [Plus One](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/PlusOne.java)
+
+- [Balanced Binary Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/BalancedBinaryTree.java)
+
+- [Pascal's Triangle](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/PascalTriangle.java)
