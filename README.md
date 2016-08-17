@@ -77,6 +77,12 @@
 
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+- [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+
 ## Answers
 
 #### EASY QUESTIONS
@@ -147,3 +153,9 @@
 - [Balanced Binary Tree](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/BalancedBinaryTree.java)
 
 - [Pascal's Triangle](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/PascalTriangle.java)
+
+- [Implement Queue using Stacks](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/ImplementQueueWithStacks.java)
+
+- [Remove Duplicates from Sorted Array](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/RemoveDuplicatesSortedArray.java)
+
+- [Factorial Trailing Zeroes](https://github.com/SingleCycleKing/Leetcode-Practice-Notes/blob/master/FactorialTrailingZeroes.java)
